@@ -253,7 +253,7 @@ td {
     }
     .menu > h1 { 
         font-size: 20px;
-        text-underline-offset: 8px;
+        text-underline-offset: 7px;
         margin: 24px 30px;
         float: left;
     }
@@ -292,7 +292,7 @@ td {
     }
     .menu > h1 { 
         font-size: 28px;
-        text-underline-offset: 11px;
+        text-underline-offset: 10px;
         margin: 28px 50px;
         float: left;
     }
